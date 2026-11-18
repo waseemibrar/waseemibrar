@@ -29,10 +29,6 @@ I work across the full delivery lifecycle — from solution design and developme
 
 ## Featured projects
 
-<p align="center">
-  <i>Project preview placeholders — replace these with your own screenshots when ready.</i>
-</p>
-
 <table>
   <tr>
     <td width="50%" valign="top">
