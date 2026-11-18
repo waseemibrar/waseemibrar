@@ -36,14 +36,14 @@ I work across the full delivery lifecycle — from solution design and developme
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://placehold.co/900x500/111827/67e8f9?text=AI+Recruitment+Automation" alt="AI Recruitment Automation screenshot placeholder" width="100%">
+      <img src="./assets/projects/ai-recruitment.png" alt="AI Recruitment Automation screenshot placeholder" width="100%">
       <h3>AI Recruitment Automation</h3>
       Automated candidate intake, screening, assessments, application tracking, interview scheduling, and communications.
       <br><br>
       <b>Laravel · Vue · TypeScript · Vector DB · Messaging APIs</b>
     </td>
     <td width="50%" valign="top">
-      <img src="https://placehold.co/900x500/111827/67e8f9?text=WhatsApp+Business+Automation" alt="WhatsApp Business Automation screenshot placeholder" width="100%">
+      <img src="./assets/projects/whatsapp-automation.png" alt="WhatsApp Business Automation screenshot placeholder" width="100%">
       <h3>WhatsApp Business Automation</h3>
       AI-driven customer engagement and support workflows using business messaging integrations.
       <br><br>
@@ -52,14 +52,14 @@ I work across the full delivery lifecycle — from solution design and developme
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://placehold.co/900x500/111827/67e8f9?text=ERP+and+CRM+Integrations" alt="ERP and CRM integrations screenshot placeholder" width="100%">
+      <img src="./assets/projects/erp-crm-integrations.png" alt="ERP and CRM integrations screenshot placeholder" width="100%">
       <h3>ERP & CRM Integrations</h3>
       Connected business systems and automated operational and CRM data synchronization.
       <br><br>
       <b>Odoo · Zoho CRM · Microsoft 365 · Google APIs</b>
     </td>
     <td width="50%" valign="top">
-      <img src="https://placehold.co/900x500/111827/67e8f9?text=Cloud+Infrastructure+Automation" alt="Cloud infrastructure screenshot placeholder" width="100%">
+      <img src="./assets/projects/infrastructure-automation.png" alt="Cloud infrastructure screenshot placeholder" width="100%">
       <h3>Infrastructure & Deployment Automation</h3>
       Linux/VPS administration, web servers, SSL, DNS, scheduled jobs, process supervision, and CI/CD.
       <br><br>
